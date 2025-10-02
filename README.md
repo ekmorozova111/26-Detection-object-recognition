@@ -1,5 +1,6 @@
 # 26-Detection-tracking-pose-detection
 Тема годового проекта:
+
 26. Детекция, трекинг объектов, pose detection
 
 Состав команды:
